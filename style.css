@@ -38,7 +38,10 @@ p{
 img{
     width: 100%;
 }
-
+.hidden{
+    visibility: hidden;
+    height: 0;
+}
 .navbar{
     background-color:var(--primay-color);
     color: white;
